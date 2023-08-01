@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courseSkills>
+    <skill> Linux Terminal GIT Bash </skill>
+    <skill> Git </skill>
+    <skill> Strong understanding of software development life cycle (SDLC) and software testing methodologies. </skill>
+    <skill> Test design techniques </skill>
+    <skill> Proficient in test planning, test case creation, test automation, and test execution.</skill>
+    <skill> Familiarity with software testing tools and technologies, such as Selenium, JMeter, and Appium. </skill>
+    <skill> Ability to identify and report defects using issue tracking tools like Jira or Bugzilla </skill>
+    <skill> Experience in test automation using scripting languages like Python, Java, or Ruby </skill>
+    <skill> Excellent communication and problem-solving skills to collaborate with cross-functional teams </skill>
+    <skill> Charles </skill>
+    <skill> SQL </skill>
+    <skill> JMeter load testing </skill>
+    <skill> Testing of mobile apps with Xcode/Android Studio</skill>
+</courseSkills>
