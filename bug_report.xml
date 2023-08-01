@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bugReportExample>
+  <id>4.0.6_77</id>
+
+  <severity>Medium</severity>
+  <priority>Medium</priority>
+
+  <title>Starting and ending times of trading sessions for trading instruments are not displayed in the "Trading"
+  section during application runtime (application restart required)
+  </title>
+
+  <environment>
+    <value>iPhone 7 iOS 15.6</value>
+  </environment>
+   <precondition> none </precondition>
+
+  <stepsToReproduce>
+    <step>1. Open the "Trade Section 5" </step>
+    <step>2. Tap on "Trading instrument tab 23.X" to start / end trading  </step>
+    <step>3. Wait for start / end of trading session according to The schedule</step>
+  </stepsToReproduce>
+ 
+  <expectedResult> Starting / ending time of trading sessions is displayed </expectedResult>
+  <actualResult> Application is not responded to Starting / ending times of trading sessions </actualResult>
+  <attachment> URL to attach </attachment>
+  
+</bugReportExample>
